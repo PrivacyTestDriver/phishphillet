@@ -31,8 +31,11 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
+# 20230128
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+    # 20230127
   - jekyll-include-cache
 
 # Exclude from processing.
