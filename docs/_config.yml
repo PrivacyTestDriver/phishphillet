@@ -32,9 +32,10 @@ github_username:  jekyll
 encoding: utf-8
 
 # Build settings
-# 20230130: replace jekyll/minima and minima with minimal-mistakes-jekyll
 # 20230128: Add "remote_theme: jekyll/minima"
-theme: minimal-mistakes-jekyll
+# 20230130: replace jekyll/minima and minima with minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # remote_theme: jekyll/minima
 plugins:
     # 20230127: add jekyll-include-cache
