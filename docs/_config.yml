@@ -18,29 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Phish Phillet
 email: your-email@example.com
-repository: PrivacyTestDriver/phishphillet
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/phishphillet/docs" # the subpath of your site, e.g. /blog
+  Tales of phishing attempts and how not to be phished
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-encoding: utf-8
+logo: /images/PhishColour_300.png
+read_time: true
+words_per_minute: 200
 
 # Build settings
-# 20230128: Add "remote_theme: jekyll/minima"
-# 20230130: replace jekyll/minima and minima with minimal-mistakes-jekyll
-# theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-# remote_theme: jekyll/minima
+# theme: minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0" 
 plugins:
-    # 20230127: add jekyll-include-cache
   - jekyll-feed
-  - jekyll-include-cache
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
