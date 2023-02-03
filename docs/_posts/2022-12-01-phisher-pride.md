@@ -12,7 +12,7 @@ categories:
 ---
 
 We continue our series on phishing emails. I am glad to say a phisher heard 
-my plead and stepped up to the challenge before Black Friday ended!
+my plea and stepped up to the challenge before Black Friday ended!
 
 
 <img src="/images/2022/phish7.png" class="align-center" 

@@ -8,10 +8,12 @@ Why? Because it works!
 
 
 # Don't be a phish!
-We hope our little phishing website will help you learn how to identify
+We hope our little phishing website will entertain you, and just maybe
+help you learn how to identify
 when an email is phishy so you will not be phished.
 
 # We need your help!
+We can't phillet phishers without phishing emails!
 Did you receive a phishing email, or want to know if a suspicious email
 is indeed phishy? Send it to us so we can phillet it for you!
 We will remove your identifying information before posting it, unless
