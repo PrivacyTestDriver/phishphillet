@@ -11,9 +11,10 @@ categories:
   - blog
 ---
 One of the classical types of phish is the one which sends an invoice
-you are not sure why you received. The idea is to make is vague enough
-that even though it does not seem familiar, it entices you to click on
-its links or attachment to find more. 
+you are not sure why you received. The idea is to make it vague enough
+that even though you are not sure why you received the invoice,
+it looks familiar enough to entice you to click on
+its links or attachments to find more, and refresh your memory. 
 And once you do it, you have been phished.
 
 Case in point is the one in today's entry. It claims to be the "corrected 
