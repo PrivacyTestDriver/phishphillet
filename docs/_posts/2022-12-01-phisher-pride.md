@@ -73,11 +73,11 @@ DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=em-tuci.transunion.com; 
 	 8HR0NVWvPUjzQ==
 </pre>
 
-At first glance it seems the email came straight from TransUnion, specifically from the host called `em-tuci.transunion.com`. But, then we find the most interesting entry in the above header exerpt (which I highlited):
+At first glance it seems the email came straight from TransUnion, specifically from the host called `em-tuci.transunion.com`. But, then we find the most interesting entry in the above header except (which I highlighted):
 
 `Received: from mta-210-36.sparkpostmail.com (mta-210-36.sparkpostmail.com. [147.253.210.36])`
 
-It seems this email came from `mta-210-36.sparkpostmail.com`, whose IP (`147.253.210.36`) has been whitelisted by `bounce.em-tuci.transunion.com` as a sender. From there it ends up in the Clueless's gmail account relying on transunion's server's relationship with google's.
+It seems this email came from `mta-210-36.sparkpostmail.com`, whose IP (`147.253.210.36`) has been whitelisted by `bounce.em-tuci.transunion.com` as a sender. From there it ends up in the Clueless's gmail account relying on TransUnion server's relationship with google's.
 
 ### But, who is SparkPost?
 Short version, it is a 
@@ -93,8 +93,8 @@ If we read the [MITRE ATT&CK](https://attack.mitre.org/techniques/T1566/003/)
 entry, sounds like a very good possibility.
 
 ## Some kind of Conclusion
-Even though this phishing email was much more well thought out than that insult mentioned in the last entry of the series, if you stop and examine it -- without first clicking on its links -- you can still identify it as such rather quickly, without needing to tear down through its raw contents. Don't get me wrong: doing that is fun, but if you are trying to go trhough your daily routine and see this email, in less than 5 minutes you can make a call of whether it is legit or suspicious.
+Even though this phishing email was much more well thought out than that insult mentioned in the last entry of the series, if you stop and examine it -- without first clicking on its links -- you can still identify it as such rather quickly, without needing to tear down through its raw contents. Don't get me wrong: doing that is fun, but if you are trying to go through your daily routine and see this email, in less than 5 minutes you can make a call of whether it is legit or suspicious.
 
-Ok, more if you have to wait on the phone listening to elevator music to talk to a company to verify if they sent said email.
+OK, more if you have to wait on the phone listening to elevator music to talk to a company to verify if they sent said email.
 
 

@@ -11,7 +11,7 @@ categories:
   - phish
 ---
 
-Todays phishing email is a classic for two reasons
+Today's phishing email is a classic for two reasons
 - It is the ol'invoice phishing email, showing a bill to a product you or
 someone at your place of work may have bought. [
 McAfee](https://www.mcafee.com/) does sell 
