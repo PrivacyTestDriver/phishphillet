@@ -17,17 +17,16 @@ We can't phillet phishers without phishing emails!
 Did you receive a phishing email, or want to know if a suspicious email
 is indeed phishy? 
 Don't let them spoil your day! Let us turn it into some entertainment!
-Send it
-<a href="mailto:{{ site.email | encode_email }}" title="Feed the Phish">to us</a> 
+Send us your
+<b><a href="mailto:{{ site.email | encode_email }}" title="Feed the Phish">Phishing Email</a> </b>
 so we can phillet it for you!
-
-<a href="mailto:{{ site.email | encode_email }}" title="Feed the Phish">Submit A Phishing Email</a> 
 
 ## Note
 We will remove your identifying information before posting it, 
 stating it was contributed by a "viewer like you (thank you!)."
 If
 you want to be acknowledged for the submission, 
-<a href="mailto:{{ site.email | encode_email }}" title="I caught a phisher">do let us know</a> 
-how you would like to be called. 
+do let us know
+how you would like to be called. If you have an avatar or picture, 
+do attach it to your email!
 
