@@ -28,6 +28,5 @@ stating it was contributed by a "viewer like you (thank you!)."
 If
 you want to be acknowledged for the submission, 
 do let us know
-how you would like to be called. If you have an avatar or picture, 
-do attach it to your email!
-
+how you would like to be called. If you have an avatar or picture you want
+use to use when referring to you, do attach it to your email!
