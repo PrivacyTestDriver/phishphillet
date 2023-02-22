@@ -22,7 +22,7 @@ Send us your
 <b><a href="mailto:{{ site.email | encode_email }}" title="Feed the Phish">Phishing Email</a> </b>
 so we can phillet it for you!
 
-## Note
+## Exciting Note
 We will remove your identifying information before posting it, 
 stating it was contributed by a "viewer like you (thank you!)."
 If
@@ -30,3 +30,7 @@ you want to be acknowledged for the submission,
 do let us know
 how you would like to be called. If you have an avatar or picture you want
 use to use when referring to you, do attach it to your email!
+
+## Boring Note
+
+Phish Phillet&trade; and the mermaid guy logo are trademarks of PrivacyTest Driver, LLC.
