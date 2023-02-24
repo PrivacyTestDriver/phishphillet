@@ -6,8 +6,7 @@ tags:
   - content
   - phish
   - image
-  - attachment
-  - PDF
+  - link
 categories: 
   - blog
 ---
