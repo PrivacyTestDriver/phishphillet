@@ -46,15 +46,24 @@ see that gmail claims it is ok:
 
 ```bash
 Attachment scanning in Gmail
-To help protect your inbox, Gmail blocks attachments when malware is detected. You should still only download attachments from people you trust. Learn more
+To help protect your inbox, Gmail blocks attachments when malware 
+is detected. You should still only download attachments from 
+people you trust. Learn more [Link]
 ```
 
-As a result, someone may think "hmmm, gmail said is ok, and I can barely see 
+As a result, someone may think "*hmmm, gmail said is ok, and I can barely see 
 what this is all about. Let me download it and open it. 
-What could possibly go wrong?"
+What could possibly go wrong?*"
 
-I downloaded it, and it is 1.6 MB. That is a bit much for an invoice.
+<img src="/images/2023/whatcouldgowrong.gif" class="align-center" alt="What could possibly go wrong?">
 
-Your virus scanner *will* not flag it either. But, depending on which program you use to open it, malware is unleashed.
+Your virus scanner will **not** flag it either. But, depending on which program you use to open it, malware is unleashed.
 
 Clever girl.
+This is an example why I asked for your phish, or potential phishes:
+if it looks suspicious, let someone like me who enjoys tearing them apart
+investigate.
+Fun fact: 
+I downloaded it, and it is 1.6 MB. That is a bit much for an invoice.
+But, so far I have not setup an environment where I feel comfortable enough
+to examine it.
