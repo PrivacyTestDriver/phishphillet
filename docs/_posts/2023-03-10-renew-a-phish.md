@@ -32,8 +32,8 @@ At first glance it has enough clues for us to know what they are up to
 
 - The email address is a dead giveaway, specially if
 you glance *but do not download* the attached "invoice" showing the 
-GeekSquad logo. GeekSquad has its own domain and would never use an email
-address whose username looks like the output of a cat walking on the keyboard.
+GeekSquad logo. GeekSquad has its own domain and would never use a
+gmail address, specially one with what seems to be someone's name.
 - The `Subject:` of the email is classic for this kind of email.
 
 The clever touch is that they made the invoice a jpg file instead of the
