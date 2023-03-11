@@ -10,7 +10,7 @@ tags:
 categories: 
   - blog
 ---
-Today (it is still Friday) I received this more clever variation of the 
+Today (it is still Friday) I received this rather clever variation of the 
 ol' invoice phishing email. 
 
 <img src="/images/2023/phish12.png" class="align-center" alt="Phishing email with malicious attachment">
