@@ -57,7 +57,9 @@ What could possibly go wrong?*"
 
 <img src="/images/2023/whatcouldgowrong.gif" class="align-center" alt="What could possibly go wrong?">
 
-Your virus scanner will **not** flag it either. But, depending on which program you use to open it, malware is unleashed.
+Not only your virus scanner will **not** flag it as 
+suspicious or dangerous either, but also (depending on which program you use to open it) the malware hidden in the image file will
+be unleashed.
 
 Clever girl.
 This is an example why I asked for your phish, or potential phishes:
