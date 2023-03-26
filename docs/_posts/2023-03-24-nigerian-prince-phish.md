@@ -5,8 +5,6 @@ author: mainphish
 tags:
   - content
   - phish
-  - image
-  - link
 categories: 
   - blog
 ---
