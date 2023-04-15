@@ -19,8 +19,8 @@ You really do not need to put too much effort to bypass those tools and their
 filters; as today's example will show you can be pretty lazy and effective.
 
 <img src="/images/2023/phishs14.png" 
-class="align-center" alt="Phishing email claiming they recorded you doing
-naughty things in front of the computer camera">
+class="align-center" alt="[Phishing email claiming they recorded you doing
+naughty things in front of the computer camera]">
 
 This email showed up in another mailing list I belong to earlier today; 
 I removed the 
