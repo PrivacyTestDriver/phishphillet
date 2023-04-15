@@ -60,7 +60,7 @@ happening. Here is what you need to do - transfer the Bitcoin equivalent of
 1250 USD to my Bitcoin account (that is rather a simple process, which 
 you can check out online in case if you don't know how to do that).Below is 
 my bitcoin account information (Bitcoin wallet): 
-1MSafx9aRzRybiqgGJnH1Ah4EJz5usuSxyOnce the required amount is 
+**[BITCOIN CODE HERE]**Once the required amount is 
 transferred to my account, I will proceed with deleting all those videos 
 and disappear from your life once and for all. Kindly ensure you complete 
 the abovementioned transfer within 50 hours (2 days +). I will 
