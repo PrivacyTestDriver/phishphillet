@@ -16,7 +16,7 @@ If you have been following this blog, you know that these programs only get the
 really badly put together ones. I mean the ones that are as obvious as
 someone running naked inside the post office with a "arrest me" cape.
 You really do not need to put too much effort to bypass those tools and their
-filters; as todays example will show you can be pretty lazy and effective.
+filters; as today's example will show you can be pretty lazy and effective.
 
 <img src="/images/2023/phishs16.png" 
 class="align-center" alt="Phishing email claiming they recorded you doing
