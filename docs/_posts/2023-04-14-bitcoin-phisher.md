@@ -18,7 +18,7 @@ someone running naked inside the post office with a "arrest me" cape.
 You really do not need to put too much effort to bypass those tools and their
 filters; as today's example will show you can be pretty lazy and effective.
 
-<img src="/images/2023/phishs14.png" 
+<img src="/images/2023/phish14.png" 
 class="align-center" alt="[Phishing email claiming they recorded you doing
 naughty things in front of the computer camera]">
 
@@ -40,7 +40,7 @@ Currently I have gained full access to your account. In addition, I was
 secretly monitoring all your activities and watching you for several months. 
 The thing is your computer was infected with harmful spyware due to the fact 
 that you had visited a website with porn content previously. 
-&#9581; &#5198; &#9582;Let me explain to you what that entails. 
+Let me explain to you what that entails. 
 Thanks to Trojan viruses, I can gain complete access to your computer or any 
 other device that you own.It means that I can see absolutely everything in 
 your screen and switch on the camera as well as microphone at any point of 
@@ -52,7 +52,7 @@ which refreshes its signatures on 4-hourly basis, hence your antivirus is
 unable to detect it presence.I have made a video compilation, which shows 
 on the left side the scenes of you happily masturbating, while on the 
 right side it demonstrates the video you were watching at that 
-moment..&#7508;.&#7508;All I need is just to share this video to all email 
+moment..All I need is just to share this video to all email 
 addresses and messenger contacts of people you are in communication with on 
 your device or PC. Furthermore, I can also make public all your emails 
 and chat history.I believe you would definitely want to avoid this from 
