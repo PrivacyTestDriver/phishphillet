@@ -31,7 +31,7 @@ Subject: Your UPS package Delivery
 # Package Delivery
 
 **Dear Customer**,
-As a reminder, USPS informs you that your shipment NÂ° US/293815612 is still pending instructions from you.
+As a reminder, USPS informs you that your shipment No US/293815612 is still pending instructions from you.
 -----------------------------------------------------------------------------
 Confirm the payment of the home delivery costs (1,99 USD)
 and the shipment of the package by clicking on the following
@@ -60,7 +60,7 @@ other is a private company.
 - My spidey sense also tells me they are not based off Stuttgart.
 
 - With that said, that would explain why they are using Non-US formatting,
-such as comma instead of period to denote decimal place and `NÂ` instead of
+such as comma instead of period to denote decimal place and `No` instead of
 `#` (or even spell `number` out).
 
 - The `[Send My Package]` is the link to the malicious payload. I guess it
@@ -72,4 +72,5 @@ What is wrong with you?
 I really hope your mother never sees this; I can't help but imagine all the
 hard work she had to do to put you through phishing school. All those long
 hours she worked... and this is how you thank her?
-
+There is still time: write a phishing email that will make her proud this
+Mother's Day!
