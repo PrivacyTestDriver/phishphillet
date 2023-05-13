@@ -76,6 +76,7 @@ public.Good luck!
 
 - While I like the salutation ("*Hi there! I am a professional hacker!*"), 
 that is a bit of a telltale something is up.
+
 - The use of "*Kindly*" in an email always make me put it in the 
 "*suspicious*" pile. 
 
