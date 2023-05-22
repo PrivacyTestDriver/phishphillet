@@ -108,32 +108,28 @@ phishing email. And, what about `fortsolicitor.com`? Glad you asked:
 It was created two months ago and if we take a look at its homepage:
 
 ```
-   HostGator                                                                    
-                                                                                
-Let's set up your website!                                                      
-                                                                                
-Let's set up your website!                                                      
-                                                                                
-   Login                                                                        
-                                                                                
-Log in to                                                                       
-HostGator                                                                       
-                                                                                
-Log in to                                                                       
-HostGator                                                                       
-                                                                                
-   Support                                                                      
-                                                                                
-Get                                                                             
-Support                                                                         
-                                                                                
-Get                                                                             
-Support                                                                         
-                                                                                
-Copyright HostGaor
+   HostGator
+
+Let's set up your website!
+
+   Login
+
+Log in to
+HostGator
+
+Log in to
+HostGator
+
+   Support
+
+Get
+Support
+
+Copyright HostGator
 ```
 
-we see they just got the HostGator account and never really built a website.
+we see they just got the [HostGator](https://www.hostgator.com/) 
+account and never really built a website. All we see is the placeholder page.
 
 Is this a bit above and beyond what we needed to do to find if this is a 
 phishing email? Yes. But, since this phisher actually took time to get some
@@ -142,5 +138,5 @@ to show he started right laying together the required infrastructure.
 Unfortunately then he dropped all the goodwill he earned by providing a
 rather easy to detect phishing email.
 
-Overall, it is not a bad effort... if this was a first homework in an 
+Overall, it is not a bad effort... if this was the first homework in an 
 entry level phishing class.
