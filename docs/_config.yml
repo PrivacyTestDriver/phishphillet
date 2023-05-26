@@ -31,6 +31,8 @@ copyright: "&copy; 2023 [Privacy Test Driver LLC](https://privacytestdriver.com)
 read_time: true
 words_per_minute: 200
 
+future:true
+
 # Build settings
 # theme: minima
 remote_theme: "mmistakes/so-simple-theme@3.2.0" 
