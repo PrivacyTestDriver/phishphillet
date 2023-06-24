@@ -35,16 +35,21 @@ Hi,
 
 I would like to know if you are interested in reaching out to UNIX Users List?
 
-We also have software users of : Oracle Linux, Ubuntu Linux, Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise Server, IBM AIX and many more upon response.
+We also have software users of : Oracle Linux, Ubuntu Linux, Red Hat Enterprise 
+Linux (RHEL), SUSE Linux Enterprise Server, IBM AIX and many more upon 
+response.
 
-List includes: Business Name, Client Name, Title, Verified Email Address, Physical Address, Phone Number, Fax Number, Web Page, Industry, Sic Code, Revenue Size, Employee Size, LinkedIn etc…
+List includes: Business Name, Client Name, Title, Verified Email Address, 
+Physical Address, Phone Number, Fax Number, Web Page, Industry, Sic Code, 
+Revenue Size, Employee Size, LinkedIn etc…
 
 Please let me know your targeted criteria by filling the empty spots below.
 
 Criteria:
 Software? (For Example: UNIX, Oracle Linux, Ubuntu Linux etc...)
 Job Title? (For Example: CEO, COO, CFO, VP, Directors Etc... Whom do you want to contact)
-Geography? (For Example: United States, United Kingdom, Canada etc. From which country you needed)
+Geography? (For Example: United States, United Kingdom, Canada etc. From which 
+country you needed)
 
 I could then come back to you with the enriched contacts availability & pricing.
 
@@ -73,9 +78,10 @@ cheap to try ir.
 they are just machining gun everywhere and hoping for the best.
 
 - Their use of grammar is typical of badly put together phishing, spam, and
-other malicious email: atrocious. If you just look at the items under
-*Criteria* you will think "it almost makes sense," by la creme de la creme
-is the sentence below,
+other malicious email: *atrocious*. If you just look at the items under
+**Criteria** you may think "it almost makes sense" but still will scratch
+your head. This spammer decided to go one level up: I present you la creme 
+de la creme:
 
 ``` 
 I could then come back to you with the enriched contacts availability & pricing.
