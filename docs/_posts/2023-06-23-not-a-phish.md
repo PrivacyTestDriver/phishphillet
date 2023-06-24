@@ -79,8 +79,8 @@ Just this and the previous bullet is enough to say "not the kind of email I want
 
 - The `Subject:` starts with a `Re:` as some spam filters will *ass*ume it
 is a reply to an ongoing thread, and should not rank it as malicious or at
-least suspicious. I do not know how effective this is nowadays, but it is
-cheap to try ir.
+least suspicious. I do not know how effective this is nowadays, but from 
+a phisher/spammer standpoint, doing this is cheap insurance.
 
 - They could not be bothered with a proper salutation. That would mean 
 they are just machining gun everywhere and hoping for the best.
