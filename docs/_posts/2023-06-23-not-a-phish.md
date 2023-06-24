@@ -13,10 +13,12 @@ We talk a lot about phishing emails. After all, this is what this site is
 all about (teaching how to recognize and deal with them). Thing is, we 
 receive so many (ok, maybe not me, which is why I keep asking for you to
 send me some), we may start labelling any supicious emails as phishing.
-That would be a myopic of me; messages trying to con people, spam included, 
+That would be myopic of me; messages trying to con people, spam included, 
 predate emails. And, spam started to pollute mailboxes everywhere as soon 
-as the internet stopped being the domain of researchers and started being
-used by normal people to share animations of dancing hamster.
+as the internet stopped being the exclusive domain of researchers and 
+started being
+used by normal people like you and me to share 
+cat pictures and animations of dancing hamsters.
 It took decades after that before phishing was a thing.
 
 In hommage to its long and notorious history, and to the fact I received
