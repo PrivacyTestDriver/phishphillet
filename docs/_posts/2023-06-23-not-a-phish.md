@@ -13,7 +13,15 @@ We talk a lot about phishing emails. After all, this is what this site is
 all about (teaching how to recognize and deal with them). Thing is, we 
 receive so many (ok, maybe not me, which is why I keep asking for you to
 send me some), we may start labelling any supicious emails as phishing.
-That would be a misowner, so today we will talk about another kind of
+That would be a myopic of me; messages trying to con people, spam included, 
+predate emails. And, spam started to pollute mailboxes everywhere as soon 
+as the internet stopped being the domain of researchers and started being
+used by normal people to share animations of dancing hamster.
+It took decades after that before phishing was a thing.
+
+In hommage to its long and notorious history, and to the fact I received
+the emails in question earlier today (and did not have a good phishing
+email to talk about), today we will talk about another kind of
 unwanted email: good ol' spam.
 
 <img src="/images/2023/phish17.png" 
