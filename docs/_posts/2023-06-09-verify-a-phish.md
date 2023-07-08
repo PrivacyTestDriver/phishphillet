@@ -35,7 +35,7 @@ References
 
 ## How to know it is a phishing email
 
-Before you ask, there are some dead giveaways this is a phishing email
+There are some dead giveaways this is a phishing email:
 
 - That trademark of scam messages, be them phishing or fake job offers or
 whatever, the notorious `kindly` is there. These phishers just cannot let
