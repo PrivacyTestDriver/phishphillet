@@ -12,7 +12,7 @@ categories:
 
 Early this month I received yet another classic phishing email; 
 this time it is a traditional *Nigerian Prince* one. 
-This style of phishing email is identified by, like the others, its
+This style of phishing email is identified by its
 unique pattern:
 
 1. It always is supposed to be from someone, or that person's agent, who 

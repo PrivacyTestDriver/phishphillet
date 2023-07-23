@@ -13,7 +13,13 @@ help you learn how to identify
 when an email is phishy so you will not be phished.
 
 # We need your help!
-We can't phillet phishers without phishing emails!
+Every single email we posted (and make fun of) here is a 100% certified 
+phishing 
+email. Problem is, we only receive so many of them; it seems phishers do
+not like us. We would love to post more, but we can't phillet phishers 
+without phishing emails.
+This is where *you* can help!
+
 Did you receive a phishing email, or want to know if a suspicious email
 is indeed phishy? 
 Don't let them spoil your day! Let us turn it into some entertainment!
