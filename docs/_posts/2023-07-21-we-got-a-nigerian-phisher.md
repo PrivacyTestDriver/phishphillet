@@ -69,15 +69,15 @@ a half-hearted phishing email like the mediocrity we have been receiving;
 this is the kind of well-crafted con we deserve to receive. It does not
 insult our intelligence but entertains it. 
 
-- **Chairman  /CEO of Niger Delta Development Commission(NDDC)**! This is 
+- *Chairman  /CEO of Niger Delta Development Commission(NDDC)*! This is 
 proper Nigerian Scam. The only thing that could trump this was if it claimed
 to be from Nigerian Royalty. Yes, that is as close at this email is from the
 absolute apex in the phishing pantheon. This is the kind of email you only
 hear about. Remember where you were when you read it.
 
 - The second paragraph is there to set the bait (hence phishing), but when 
-it gets to "**Six Hundred i and Fourteen Thousand United States of America 
-Dollars**", you know
+it gets to "*huge  contract sum  amounting to Forty Million , Six Hundred and Fourteen Thousand United States of America 
+Dollars*", you know
 this email delivers! I am sorry; I have no words. I am giggling here.
 
 - Contrary to lesser phishing emails, this one does not scream at you or
